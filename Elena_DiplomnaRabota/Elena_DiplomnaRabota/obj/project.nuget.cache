@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "VOz9NAmoeZ+E3AerHRmsyYhBQk0IoNTUHW2eNRwZVRWe/40TxtuCutor6pPILj+jYZn7OIKnX6MCQnrJIx7/lA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Elena Mladenova\\Desktop\\Elena_DiplomnaRabota\\Elena_DiplomnaRabota\\Elena_DiplomnaRabota\\Elena_DiplomnaRabota.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elena Mladenova\\.nuget\\packages\\anglesharp\\1.1.2\\anglesharp.1.1.2.nupkg.sha512",
+    "C:\\Users\\Elena Mladenova\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
+    "C:\\Users\\Elena Mladenova\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\Elena Mladenova\\.nuget\\packages\\microsoft.codecoverage\\17.10.0\\microsoft.codecoverage.17.10.0.nupkg.sha512",
+    "C:\\Users\\Elena Mladenova\\.nuget\\packages\\microsoft.net.test.sdk\\17.10.0\\microsoft.net.test.sdk.17.10.0.nupkg.sha512",
+    "C:\\Users\\Elena Mladenova\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Elena Mladenova\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.10.0\\microsoft.testplatform.objectmodel.17.10.0.nupkg.sha512",
+    "C:\\Users\\Elena Mladenova\\.nuget\\packages\\microsoft.testplatform.testhost\\17.10.0\\microsoft.testplatform.testhost.17.10.0.nupkg.sha512",
+    "C:\\Users\\Elena Mladenova\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\Elena Mladenova\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Elena Mladenova\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\Elena Mladenova\\.nuget\\packages\\nunit.analyzers\\4.2.0\\nunit.analyzers.4.2.0.nupkg.sha512",
+    "C:\\Users\\Elena Mladenova\\.nuget\\packages\\nunit3testadapter\\4.6.0\\nunit3testadapter.4.6.0.nupkg.sha512",
+    "C:\\Users\\Elena Mladenova\\.nuget\\packages\\openqa.selenium.chrome.chromedriverextensions\\1.2.0\\openqa.selenium.chrome.chromedriverextensions.1.2.0.nupkg.sha512",
+    "C:\\Users\\Elena Mladenova\\.nuget\\packages\\selenium.support\\4.23.0\\selenium.support.4.23.0.nupkg.sha512",
+    "C:\\Users\\Elena Mladenova\\.nuget\\packages\\selenium.webdriver\\4.23.0\\selenium.webdriver.4.23.0.nupkg.sha512",
+    "C:\\Users\\Elena Mladenova\\.nuget\\packages\\seleniumextras.waithelpers\\1.0.2\\seleniumextras.waithelpers.1.0.2.nupkg.sha512",
+    "C:\\Users\\Elena Mladenova\\.nuget\\packages\\sharpziplib\\1.4.2\\sharpziplib.1.4.2.nupkg.sha512",
+    "C:\\Users\\Elena Mladenova\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\Elena Mladenova\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\Elena Mladenova\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\Elena Mladenova\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512",
+    "C:\\Users\\Elena Mladenova\\.nuget\\packages\\webdrivermanager\\2.17.4\\webdrivermanager.2.17.4.nupkg.sha512"
+  ],
+  "logs": []
+}
