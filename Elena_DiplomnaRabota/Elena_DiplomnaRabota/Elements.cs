@@ -33,8 +33,8 @@ namespace Elena_DiplomnaRabota
         //AddToWishList Test
         public static IWebElement HoverBelerages(WebDriverWait wait) => wait.Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementToBeClickable(By.XPath("//p[text() = 'Beverages']//ancestor::div[@class = 'yRj2ms']")));
         public static IWebElement DropdownCoffee(WebDriverWait wait) => wait.Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementToBeClickable(By.XPath("//p[text() = 'Coffee']//ancestor::div[@class = 'yRj2ms']")));
-        public static IWebElement ScrollColumbianCoffee(WebDriverWait wait) => wait.Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementToBeClickable(By.XPath("//h3 [text() = 'Colombian, Ground Coffee']/ancestor::div[@data-hook = 'not-image-container']")));
-        public static IWebElement GroundCoffee(WebDriverWait wait) => wait.Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementToBeClickable(By.XPath("//h3[text() = 'Colombian, Ground Coffee']//ancestor::div[@class = 'ejYUwA t1Z_7C']")));
+        public static IWebElement ScrollColumbianCoffee(WebDriverWait wait) => wait.Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementToBeClickable(By.XPath("//p[text() = 'Colombian, Ground Coffee']/ancestor::div[@data-hook = 'not-image-container']")));
+        public static IWebElement GroundCoffee(WebDriverWait wait) => wait.Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementToBeClickable(By.XPath("//p[text() = 'Colombian, Ground Coffee']//ancestor::div[@class = 'ejYUwA t1Z_7C']")));
         public static IWebElement AddToWishList(WebDriverWait wait) => wait.Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementToBeClickable(By.XPath("//button[@aria-label = 'Add to Wishlist']")));
         public static IWebElement MyWishlist(WebDriverWait wait) => wait.Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementToBeClickable(By.XPath("//span[text() = 'My Wishlist']//ancestor::li")));
         public static IWebElement ScrollCoffee(WebDriverWait wait) => wait.Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementToBeClickable(By.XPath("//p[text() = 'Colombian, Ground Coffee']//ancestor::li/div")));
