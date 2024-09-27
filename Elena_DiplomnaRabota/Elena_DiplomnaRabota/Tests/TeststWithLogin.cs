@@ -16,6 +16,7 @@ namespace Elena_DiplomnaRabota.Tests
 
             Assert.That(Elements.Username(wait).Text, Is.EqualTo("test_777"));
 
+            Thread.Sleep(2000);
         }
 
 
@@ -40,6 +41,8 @@ namespace Elena_DiplomnaRabota.Tests
             string eTitle = "My Wallet";
             string aTitle = driver.Title;
             Assert.That(aTitle, Is.EqualTo(eTitle));
+
+            Thread.Sleep(1000);
         }
 
         [Test]

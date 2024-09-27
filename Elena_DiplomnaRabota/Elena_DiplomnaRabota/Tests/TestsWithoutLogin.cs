@@ -46,6 +46,8 @@ namespace Elena_DiplomnaRabota.Tests
             Elements.SearchButton(wait).Click();
 
             Assert.That(Elements.MilkItems(wait).Text, Is.EqualTo("7 items found for \"milk\""));
+
+            Thread.Sleep(2000);
          
         }
 
